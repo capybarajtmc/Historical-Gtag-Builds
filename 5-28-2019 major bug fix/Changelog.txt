@@ -1,1 +1,0 @@
-removed omega jump, fixed region stuff, adjusted looking down ik, added freeze, fixed leaving tagging everyone if you're tagger

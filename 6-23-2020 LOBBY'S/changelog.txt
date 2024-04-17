@@ -1,0 +1,3 @@
+<@&717162315270586429> new lobby, removed ctf, snap turning/stick turning with speed slider, changed the map a bit, rewrote the rules logic so hopefully it transfers room ownership and sets skins better without desynching as much
+-in game player counter is broken right now
+*i did not test this extensively, so it might be kind of buggy, keep playing on Spirit if you want it to be more reliable*

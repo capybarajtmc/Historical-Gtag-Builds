@@ -1,1 +1,0 @@
-another improvement to tag detection (had an issue where the trail it used to detect a hit wasn't going from where your hand was in the world from last frame to this frame, only how much your hand had moved in your playspace), added positional voice chat

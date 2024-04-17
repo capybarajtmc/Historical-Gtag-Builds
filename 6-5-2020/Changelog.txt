@@ -1,0 +1,1 @@
+upped the room size to 12, made it a little more annoying to leave the map, added unique colors for every player in their noob mode

@@ -1,0 +1,12 @@
+merry christmas eve! mostly a lot of tweaks in this one, no huge new functionality, but we got:
+- i think i fixed the body tagging thing a bit
+- changed the font everywhere
+- added turning options to the computer
+- made it so the updates for name + color update real time while you're in a room
+- adjusted the ladder for the treehouse again
+- hopefully some more performance improvements for quest, there were some build options i didnt have set correctly that should help
+-made the scoreboard readjust order when someone leaves the room - also made ordering consistent
+- added arm tagging (so there's a tag zone between your hand and your head)
+- fixed super jump
+- added arm-unstucking logic - it'll be if your head is touching a surface and your hand is further than some set distance to its current in game position, then i'll do a spherecast from your head to your hand. if it's clear, i'll move your in game hand to your current position. in game effect should be if you feel stuck and pull your arm out, it should come out
+- fix bug with tag in privates

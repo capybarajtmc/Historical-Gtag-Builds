@@ -1,0 +1,19 @@
+6-14 first prototype ctf build. it is extremely janky! it barely works! please report any issues, i have lots of stuff to cleanup!!!
+
+<@&717162315270586429> fixed the tagging issues, made it harder to jump out of the map, should fix the end of the round stuff, should fix stunlocking, fixed player counts, im going to go take a nap now i think this is good enough to be able to get some decent games in
+
+6-16
+
+<@&717162315270586429> ok, this one has the things i listed out before:
+1. you have to go to your flag's respawn area to respawn. it's the box in your team's color
+2. you need to bring the flag back to your respawn area
+3. if you're carrying the flag, you can be tagged even on your side, and you cannot tag anyone
+4. when tagged, the flag will lay on the ground for 10 seconds before going back to its base. im pretty sure it can be tagged again during this time
+
+also - tag is now not blocked off, the player counter shows both not per game mode im still working on that, and the netcode should be better
+
+made the map smaller, hopefully fixed the flag not staying in place for 10 seconds
+
+should fix the flag disappearing when you change team as well as the red flag floating behind you
+
+After this build ctf was removed never to see the light of day again

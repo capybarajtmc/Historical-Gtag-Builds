@@ -1,1 +1,0 @@
-instead of being a lonely gorilla, you can play tag. multi, should shunt you into a room automatically. movement is still janky, i ripped out all of the vrtk stuff, and audio doesn't seem to work cross platform (although the rooms are cross platform)

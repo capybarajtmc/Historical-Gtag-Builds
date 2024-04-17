@@ -1,0 +1,25 @@
+I do builds that are fixed. not buggy and broken. this is the same new added stuff but just 3 days later and all fixed
+
+Changelog:
+
+6-09
+
+experimental build, added a lot of stuff. not compatible with older versions. some highlights:
+-harder to shove yourself through things
+-adjusted some of the movement speeds/limits
+-added gorilla cave (will be basis for for doing things like enabling smooth turning, different game modes)
+-afk kick
+-new sounds, and should sound less like someone just broke something when rounds end
+-moved map around a little bit
+-made some walls you can't climb (not in love with it but u bastards keep trying to get out)
+
+known issues:
+-when you go back into the gorilla cave your body is invisible
+-you can still sort of shove yourself throughs tuff and its janky af
+-counter sucks
+
+same as above, with some more tweaked geo, little higher top speed, made an adjustment to snap turn that probably isn't doing much, and hopefully a fix for the stuttering/problem moving around issue but im not sure. also made the sounds quieter
+
+awful build do not download
+
+fixed some audio, cleaned up some of the networking, i hope that's going to fix some of the issues where people aren't getting their speed set correctly and the game dropping into and out of rounds inappropriately. tuned some speed, and changed some geo (added more walljumps)

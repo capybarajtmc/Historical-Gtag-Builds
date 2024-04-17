@@ -1,0 +1,3 @@
+updated the computer to add the ability to choose your name and your color. added a new structure in the center of the pit where you can see the name of people in the lobby and what their color is. another attempt at making the ladder up to the red treehouse climbable
+
+TRIPLE BUILD ok there were some underlying issues that i think were just exposed by trying to do the scoreboards, i made it so you disconnect more gracefully when you use the button, and i think i cleaned up the scoreboards so you shouldnt see it repeat over itself so much. hopefully quest can handle it again (hotfix contains a fix for starting the game for the first time, which was broken, you don't need it unless you can't connect)

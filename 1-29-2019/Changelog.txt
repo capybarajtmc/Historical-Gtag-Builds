@@ -1,0 +1,1 @@
+Cleaned up movement a little (you don't zoom straight down when you're holding yourself above a ledge and let go), added some more obstacles, worked on the resizer and stick turning but they're both still terrible. Added some haptics

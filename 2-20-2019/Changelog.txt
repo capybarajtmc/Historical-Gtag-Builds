@@ -1,0 +1,1 @@
+the resizer cube works decently now. enter it, hold your arms out, press a or x. stick turn on left controller works.
